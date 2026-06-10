@@ -5,7 +5,7 @@ public class BankAccount {
     private final int accountNumber;
     private final String accountHolder;
     private final double balance;
-
+//this is the constructor for instance members initialization
     public BankAccount(int accountNumber,
                        String accountHolder,
                        double balance) {
